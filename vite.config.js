@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/ProyectoSemaforos/',
-  plugins: [react()]
+  base: '/Tarea2-analisis/',
+  plugins: [react()],
 })
